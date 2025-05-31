@@ -1,0 +1,6 @@
+pvporcupine
+pyaudio
+SpeechRecognition
+pyttsx3
+requests
+beautifulsoup4
